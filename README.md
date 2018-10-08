@@ -3,7 +3,7 @@
 This Repository Contains code Codeuino website.
 
 ## Requirements
-* [yarn](https://yarnpkg.com/en/)
+* [npm](https://www.npmjs.com/)
 
 ## Libraries Used
 * [React](https://reactjs.org/)
@@ -11,8 +11,8 @@ This Repository Contains code Codeuino website.
 
 ## How to run:
 1. [Download](https://github.com/codeuino/website-V2/archive/master.zip) or [Clone](https://github.com/codeuino/website-V2.git) the Repository.
-2. Run `yarn install` to install the project dependencies.
-3. Run `yarn start` to run the app.
+2. Run `npm install` to install the project dependencies.
+3. Run `npm start` to run the app.
 4. App can be seen at: `localhost:3000`
 
 ## Opening an issue
